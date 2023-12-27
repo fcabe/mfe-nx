@@ -1,0 +1,21 @@
+{
+  "run": {
+    "command": "nx serve mfe1 -o",
+    "startTime": "2023-12-27T15:45:00.049Z",
+    "endTime": "2023-12-27T15:45:03.295Z",
+    "inner": false
+  },
+  "tasks": [
+    {
+      "taskId": "mfe1:serve:development",
+      "target": "serve",
+      "projectName": "mfe1",
+      "hash": "8411704668411124111",
+      "startTime": "2023-12-27T15:45:00.054Z",
+      "endTime": "2023-12-27T15:45:03.295Z",
+      "params": "",
+      "cacheStatus": "cache-miss",
+      "status": 1
+    }
+  ]
+}
